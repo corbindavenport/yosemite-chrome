@@ -1,10 +1,15 @@
 Yosemite
 ================
-This is a theme for Google Chrome to match the user interface/design of Mac OS X 10.10 'Yosemite'. It themes the browser to blend in with the rest of OS X 10.10. This theme is only tested on Mac, and may not work on Windows.
+Yosemite is a theme for Google Chrome to match the user interface/design of Mac OS X 10.10 'Yosemite'. It themes the browser to blend in with the rest of OS X 10.10.
+
+This theme is designed for and looks best with Mac OS X 10.10, but also works on older OS X versions and Chrome for Windows/Linux.
 
 ![alt text](http://i.imgur.com/Q6uXvPA.png "Screenshot")
 
 ---------------------------------------------------------
+__New in Yosemite 1.1:__
+* Fixed blue window border on Windows
+
 __New in Yosemite 1.0:__
 * Initial Release
 
